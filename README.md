@@ -49,7 +49,7 @@ lake --version
 ### 3. Questo progetto
 
 ```bash
-git clone <URL-del-repo> aila2026-lean
+git clone https://github.com/miculan/aila2026-lean.git
 cd aila2026-lean
 lake exe cache get      # scarica Mathlib già compilata: alcuni GB, molti minuti
 lake build              # compila i fogli: qualche minuto la prima volta
@@ -93,7 +93,7 @@ Se proprio l'installazione non riesce:
 |---|---|---|
 | **Lean 4 Web** | <https://live.lean-lang.org> | ha Mathlib, ma è lento e non salva il lavoro |
 | **Natural Number Game** | <https://adam.math.hhu.de> | ottimo per allenarsi sui Fogli 0–2, ambiente separato |
-| **GitHub Codespaces** | dal repo, «Code → Codespaces» | serve un account GitHub; consuma ore gratuite |
+| **GitHub Codespaces** | [dal repo](https://github.com/miculan/aila2026-lean), «Code → Codespaces» | serve un account GitHub; consuma ore gratuite |
 
 Per i Fogli 0–3 il Lean 4 Web basta: incolli il contenuto del file e lavori lì.
 
