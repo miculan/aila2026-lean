@@ -1,0 +1,23 @@
+name = "Aila2026Lean"
+version = "0.1.0"
+keywords = ["math"]
+defaultTargets = ["Esercizi", "Soluzioni"]
+
+[leanOptions]
+pp.unicode.fun = true # pretty-prints `fun a ↦ b`
+relaxedAutoImplicit = false
+maxSynthPendingDepth = 3
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.33.0"
+
+# Le due librerie mantengono i nomi `Esercizi` e `Soluzioni`: sono i namespace
+# dei moduli (`import Esercizi.Foglio0`) e corrispondono alle directory dei
+# sorgenti. Il nome del *pacchetto*, sopra, è indipendente.
+[[lean_lib]]
+name = "Esercizi"
+
+[[lean_lib]]
+name = "Soluzioni"
