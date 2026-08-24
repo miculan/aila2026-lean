@@ -6,6 +6,8 @@ dimostrazione. Teoria dei tipi, Proof Assistants e AI*.
 Scuola Estiva di Logica AILA 2026 — Villaggio Olimpico di Bardonecchia,
 31 agosto – 5 settembre 2026. Marino Miculan (Università di Udine).
 
+**NB: versione preliminare, può cambiare in corso d'opera.**
+
 ---
 
 ## ⚠️ Da fare PRIMA di arrivare a Bardonecchia
