@@ -5,7 +5,7 @@
 
   ══════════════════════════════════════════════════════════════════════
   FOGLIO 3 — Strutture algebriche da zero
-  Lezione 5, blocco 1  (~55 minuti)
+  Lezione 5, blocco 1
   ══════════════════════════════════════════════════════════════════════
 
   Obiettivo: passare da «logica al calcolatore» a «matematica al

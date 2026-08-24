@@ -5,7 +5,7 @@
 
   ══════════════════════════════════════════════════════════════════════
   FOGLIO 4 — Mathlib, automazione e ricerca dei lemmi
-  Lezione 5, blocco 2  (~45 minuti)
+  Lezione 5, blocco 2
   ══════════════════════════════════════════════════════════════════════
 
   Obiettivo: smettere di reinventare la ruota. Mathlib è una libreria di

@@ -30,7 +30,7 @@ regola logica che implementa: è il modo migliore per non impararle a memoria.
 
 | Tattica | Regola | Note |
 |---|---|---|
-| `intro h` | →-I, ∀-I | il λ-astrazione; `intro a b c` per più ipotesi |
+| `intro h` | →-I, ∀-I | la λ-astrazione; `intro a b c` per più ipotesi |
 | `exact e` | assioma | chiude il goal con il termine `e` |
 | `constructor` | ∧-I, ↔-I | genera un goal per componente |
 | `exact ⟨ha, hb⟩` | ∧-I | notazione anonima del costruttore |

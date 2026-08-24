@@ -5,7 +5,7 @@
 
   ══════════════════════════════════════════════════════════════════════
   FOGLIO 1 — Logica proposizionale come esercizio di Curry–Howard
-  Lezione 4, blocco 2  (~45 minuti)
+  Lezione 4, blocco 2
   ══════════════════════════════════════════════════════════════════════
 
   Obiettivo: rifare *al calcolatore* la tabella di corrispondenza di L1.

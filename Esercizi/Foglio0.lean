@@ -5,7 +5,7 @@
 
   ══════════════════════════════════════════════════════════════════════
   FOGLIO 0 — Riscaldamento: tour dell'ambiente
-  Lezione 4, blocco 1  (~15 minuti)
+  Lezione 4, blocco 1
   ══════════════════════════════════════════════════════════════════════
 
   Obiettivo: prendere confidenza con l'editor, con i comandi di

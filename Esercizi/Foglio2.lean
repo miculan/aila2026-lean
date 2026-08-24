@@ -5,7 +5,7 @@
 
   ══════════════════════════════════════════════════════════════════════
   FOGLIO 2 — Tipi induttivi e induzione
-  Lezione 4, blocco 3  (~40 minuti)
+  Lezione 4, blocco 3
   ══════════════════════════════════════════════════════════════════════
 
   Obiettivo: vedere in funzione ciò che a L3 è stato presentato in
